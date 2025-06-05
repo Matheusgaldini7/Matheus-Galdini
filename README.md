@@ -1,4 +1,4 @@
- EAE! Sou Matheus Galdini
+ olá, Sou Matheus Galdini
 
 - Estudante de Sistemas de Informação na PUC Campinas
 - Interesse em **Desenvolvimento Backend** e **Análise de Dados**
@@ -40,11 +40,11 @@ Soft Skills
 
 -📫 Contato: 19 971380512
 
-- 📧 **Email**: Matheusgaldini120@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-galdini-7a33242b5/) 
-- 💻 GitHub: [github.com/Matheusgaldini7](https://github.com/Matheusgaldini7)
+-  **Email**: Matheusgaldini120@gmail.com.br
+- [LinkedIn](https://www.linkedin.com/in/matheus-galdini-7a33242b5/) 
+- GitHub: [github.com/Matheusgaldini7](https://github.com/Matheusgaldini7)
 
 ---
 
 **“Aprender, praticar e evoluir.”**  
-Obrigado por visitar meu perfil! 🚀
+Obrigado por visitar meu perfil! 
